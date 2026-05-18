@@ -116,10 +116,11 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
+<img width="852" height="479" alt="image" src="https://github.com/user-attachments/assets/10e97bd4-fb64-415e-8650-3bebf3683568" />
 
-<img width="852" height="479" alt="image" src="https://github.com/user-attachments/assets/29c09361-ba87-47ae-9b0f-2416d024d633" />
+<img width="863" height="367" alt="image" src="https://github.com/user-attachments/assets/57c35568-a370-4139-bc25-d44d86971132" />
 
-<img width="863" height="367" alt="image" src="https://github.com/user-attachments/assets/193b3174-1260-4a39-8263-8ddfe66fa29e" />
+
 
 
 
